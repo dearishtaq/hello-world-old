@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T15:17:10.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xJPUZ7mqkSuT6z7m67Xo" version="13.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-08-24T15:18:55.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0z6JxmJiS_O_Dmo_Ai3C" version="13.6.4" type="github" pages="5">
   <diagram id="wfZtZg7DjSCXl58f8mZb" name="C4">
     <mxGraphModel dx="1021" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,10 +837,10 @@
           <mxGeometry x="-270" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-3" value="NIM-OSS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=#B3B3B3;gradientColor=#999999;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-640" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-4" value="ZSMART" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=#B3B3B3;gradientColor=#999999;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-270" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="-270" y="314" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DjU6518S9XPNlImMvv2Y-3" value="&lt;b style=&quot;color: rgb(255 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;User manually store&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;Rack-Rackshelf&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;in VAR Location on Chassis(Shelf)&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=3;endSize=11;startSize=11;sketch=0;dashed=1;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" source="vw2CRLOBcBUeN0YFQBN8-1" target="vw2CRLOBcBUeN0YFQBN8-4">
           <mxGeometry x="0.1373" y="-20" relative="1" as="geometry">
