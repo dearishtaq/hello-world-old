@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T05:37:47.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="S80qr08VlWwcH2hB6oCg" version="13.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-25T05:38:52.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="fB-6T6AZlzlyXnQDDLS7" version="13.6.4" type="github" pages="6">
   <diagram id="wfZtZg7DjSCXl58f8mZb" name="C4">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1258,7 +1258,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nfw2vIOe9vxQIxpQeQIj-3" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;New buildings, new stations&amp;nbsp;and also updates to stations &lt;br&gt;are synced daily through batch interface&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;(both KPN and Customer)&lt;/b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Nfw2vIOe9vxQIxpQeQIj-2">
+        <mxCell id="Nfw2vIOe9vxQIxpQeQIj-3" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;New buildings and stations&amp;nbsp;&lt;br&gt;are synced daily through batch interface&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;(both KPN and Customer)&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;(&lt;/font&gt;Station updates sync is not live)&lt;br&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Nfw2vIOe9vxQIxpQeQIj-2">
           <mxGeometry x="-0.2848" y="1" relative="1" as="geometry">
             <mxPoint x="66" y="-29" as="offset" />
           </mxGeometry>
