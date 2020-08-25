@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T10:52:28.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="le9dQ5Rb25hWWekoUwkx" version="13.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-25T13:04:57.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="g8CvZ3o6VCI28Hd2vTRh" version="13.6.4" type="github" pages="6">
   <diagram id="wfZtZg7DjSCXl58f8mZb" name="C4">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -519,14 +519,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="GIS" id="vMCU9zWd_nTL8r3yYFLL">
-    <mxGraphModel dx="1021" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v6mGNKlB1x2H7RvGQPah-1" value="Building" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="225" y="77" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v6mGNKlB1x2H7RvGQPah-2" value="Link" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="v6mGNKlB1x2H7RvGQPah-2" value="Link" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#006EAF;fillColor=#1ba1e2;" parent="1" vertex="1">
           <mxGeometry x="816" y="511" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v6mGNKlB1x2H7RvGQPah-3" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v6mGNKlB1x2H7RvGQPah-1" target="UoFUKYIW24Ygudd9SyNo-4" edge="1">
