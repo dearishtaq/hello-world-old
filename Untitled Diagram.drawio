@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T13:05:36.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="-XoSwx47YgyB8VT-tXTW" version="13.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-25T14:36:42.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="VK3zYT1LcnGV8jQUP_TK" version="13.6.4" type="github" pages="6">
   <diagram id="wfZtZg7DjSCXl58f8mZb" name="C4">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -581,9 +581,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v6mGNKlB1x2H7RvGQPah-20" value="Device" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="509" y="476" width="70" height="30" as="geometry" />
+          <mxGeometry x="410" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v6mGNKlB1x2H7RvGQPah-21" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="v6mGNKlB1x2H7RvGQPah-8" target="v6mGNKlB1x2H7RvGQPah-20" edge="1">
+        <mxCell id="v6mGNKlB1x2H7RvGQPah-21" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="UoFUKYIW24Ygudd9SyNo-7" target="v6mGNKlB1x2H7RvGQPah-20" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="493.98" y="319.99" as="sourcePoint" />
             <mxPoint x="519" y="349" as="targetPoint" />
@@ -704,6 +704,17 @@
         </mxCell>
         <mxCell id="UoFUKYIW24Ygudd9SyNo-17" value="Component&lt;br&gt;/Attribute/tabs/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="77" width="70" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Only the ONU device" placeholders="1" name="Variable" id="UoFUKYIW24Ygudd9SyNo-18">
+          <mxCell style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#FFFF66;" vertex="1" parent="1">
+            <mxGeometry x="240" y="495.5" width="130" height="61" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UoFUKYIW24Ygudd9SyNo-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UoFUKYIW24Ygudd9SyNo-18" target="v6mGNKlB1x2H7RvGQPah-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="808" y="395.0000000000001" as="sourcePoint" />
+            <mxPoint x="808" y="441" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
