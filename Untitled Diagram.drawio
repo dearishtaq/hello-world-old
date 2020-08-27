@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T06:17:30.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Lm9rbQ0EybLJ-twnX9NM" version="13.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-27T06:21:52.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="IoNmsLW3Xx9G0UROCnte" version="13.6.5" type="github" pages="6">
   <diagram id="wfZtZg7DjSCXl58f8mZb" name="C4">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1580,15 +1580,20 @@
           <mxGeometry x="-890" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mbNv79d24fFyZylR-Dew-2" value="KPN Buildings/Stations &lt;br&gt;synced daily using API" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeWidth=3;endSize=11;startSize=11;sketch=0;horizontal=1;verticalAlign=bottom;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xbn_5AaHGAQiN5ubQHhC-1" source="mbNv79d24fFyZylR-Dew-1" target="Nfw2vIOe9vxQIxpQeQIj-5">
-          <mxGeometry x="0.3978" y="-51" relative="1" as="geometry">
+          <mxGeometry x="0.197" y="-13" relative="1" as="geometry">
             <mxPoint x="-760" y="390" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mbNv79d24fFyZylR-Dew-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=11;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xbn_5AaHGAQiN5ubQHhC-1" source="mbNv79d24fFyZylR-Dew-1" target="Nfw2vIOe9vxQIxpQeQIj-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mbNv79d24fFyZylR-Dew-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xbn_5AaHGAQiN5ubQHhC-1" source="mbNv79d24fFyZylR-Dew-1" target="Nfw2vIOe9vxQIxpQeQIj-11">
+        <mxCell id="mbNv79d24fFyZylR-Dew-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=11;" edge="1" parent="xbn_5AaHGAQiN5ubQHhC-1" target="Nfw2vIOe9vxQIxpQeQIj-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-570" y="255" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbNv79d24fFyZylR-Dew-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=11;" edge="1" parent="xbn_5AaHGAQiN5ubQHhC-1" source="mbNv79d24fFyZylR-Dew-1" target="Nfw2vIOe9vxQIxpQeQIj-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbNv79d24fFyZylR-Dew-1" value="BTIS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=#B3B3B3;gradientColor=#999999;fontColor=#000000;" vertex="1" parent="xbn_5AaHGAQiN5ubQHhC-1">
@@ -1626,7 +1631,7 @@
         <mxCell id="mbNv79d24fFyZylR-Dew-20" value="Import Verblijfsobject with the stations allocated by KPN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="xbn_5AaHGAQiN5ubQHhC-1">
           <mxGeometry x="-550" y="330" width="108" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mbNv79d24fFyZylR-Dew-22" value="&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;KPN Locations/Stations are created in ZSMART from BTIS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;weekly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;br&gt;using API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="xbn_5AaHGAQiN5ubQHhC-1">
+        <mxCell id="mbNv79d24fFyZylR-Dew-22" value="&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;KPN Locations/Stations are synced &lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;weekly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;br&gt;using API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="xbn_5AaHGAQiN5ubQHhC-1">
           <mxGeometry x="-450" y="270" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mbNv79d24fFyZylR-Dew-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=11;" edge="1" parent="xbn_5AaHGAQiN5ubQHhC-1" source="mbNv79d24fFyZylR-Dew-23" target="Nfw2vIOe9vxQIxpQeQIj-5">
@@ -1649,6 +1654,9 @@
         </mxCell>
         <mxCell id="mbNv79d24fFyZylR-Dew-31" value="&lt;br style=&quot;font-size: 12px ; text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;Creates Customer Locations and Stations&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="xbn_5AaHGAQiN5ubQHhC-1">
           <mxGeometry x="-420" y="570" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mbNv79d24fFyZylR-Dew-34" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;KPN Buildings/Stations&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;synced daily using API&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="xbn_5AaHGAQiN5ubQHhC-1">
+          <mxGeometry x="-970" y="300" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
