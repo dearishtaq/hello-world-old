@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T07:52:12.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xNTcX8yaGQ2jdoRswQtb" version="13.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-27T07:52:52.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="AAjdjRrtVfrSqrIkMry2" version="13.6.5" type="github" pages="6">
   <diagram id="wfZtZg7DjSCXl58f8mZb" name="C4">
     <mxGraphModel dx="813" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1074,6 +1074,9 @@
             <mxGeometry x="-417" y="395" width="155" height="61" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="i8Gei7dm-Q_brb4MXrGM-0" value="Creates fiber racks containing active devices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
+          <mxGeometry x="-675" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
