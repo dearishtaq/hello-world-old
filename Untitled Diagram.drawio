@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T07:53:46.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="gY_hlrb7ikHswbwe4qY3" version="13.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-08-27T07:54:53.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="8Kos6MJ4vo1pQPgaLjbx" version="13.6.5" type="github" pages="6">
   <diagram id="wfZtZg7DjSCXl58f8mZb" name="C4">
     <mxGraphModel dx="813" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -951,8 +951,8 @@
         <mxCell id="NAiqHazn5sWhVvEWbsj6-1" parent="NAiqHazn5sWhVvEWbsj6-0" />
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;shadow=0;strokeWidth=3;endSize=11;startSize=11;sketch=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="NAiqHazn5sWhVvEWbsj6-1" edge="1" target="vw2CRLOBcBUeN0YFQBN8-2" source="vw2CRLOBcBUeN0YFQBN8-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-560" y="289.5" as="sourcePoint" />
-            <mxPoint x="-450" y="289.5" as="targetPoint" />
+            <mxPoint x="-621" y="289.5" as="sourcePoint" />
+            <mxPoint x="-511" y="289.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjU6518S9XPNlImMvv2Y-4" value="&lt;font&gt;&lt;span&gt;Response for &lt;br&gt;Add/Delete/Move Shelfs&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span&gt;for passive devices in fiber racks&lt;/span&gt;&lt;font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="vw2CRLOBcBUeN0YFQBN8-7" vertex="1" connectable="0">
@@ -963,11 +963,11 @@
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;jumpSize=9;jumpStyle=arc;startSize=11;endSize=11;shadow=0;sketch=0;strokeWidth=3;" parent="NAiqHazn5sWhVvEWbsj6-1" source="vw2CRLOBcBUeN0YFQBN8-1" target="vw2CRLOBcBUeN0YFQBN8-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-580" y="200" />
-              <mxPoint x="-380" y="200" />
+              <mxPoint x="-641" y="200" />
+              <mxPoint x="-441" y="200" />
             </Array>
-            <mxPoint x="-580" y="240" as="sourcePoint" />
-            <mxPoint x="-340" y="480" as="targetPoint" />
+            <mxPoint x="-641" y="240" as="sourcePoint" />
+            <mxPoint x="-401" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DjU6518S9XPNlImMvv2Y-5" value="&amp;nbsp;Sync new/delete fiber racks.&amp;nbsp;&lt;br&gt;(Attribute mutations are not synced)&lt;br&gt;(Batch interface)&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="vw2CRLOBcBUeN0YFQBN8-8" vertex="1" connectable="0">
@@ -977,74 +977,74 @@
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=11;fontColor=#000000;align=center;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" target="vw2CRLOBcBUeN0YFQBN8-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-340" y="320" as="targetPoint" />
-            <mxPoint x="-577" y="310" as="sourcePoint" />
+            <mxPoint x="-401" y="320" as="targetPoint" />
+            <mxPoint x="-638" y="310" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-577" y="360" />
-              <mxPoint x="-380" y="360" />
+              <mxPoint x="-638" y="360" />
+              <mxPoint x="-441" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-1" value="NIM-C4" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=#B3B3B3;gradientColor=#999999;fontColor=#000000;" parent="NAiqHazn5sWhVvEWbsj6-1" vertex="1">
-          <mxGeometry x="-680" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-741" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-6" value="Add/Delete/Move shelfs&lt;br&gt;for passive devices in fiber racks" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;shadow=0;strokeWidth=3;endSize=11;startSize=11;sketch=0;" parent="NAiqHazn5sWhVvEWbsj6-1" edge="1">
           <mxGeometry x="-0.04" y="-29" relative="1" as="geometry">
-            <mxPoint x="-410" y="264" as="sourcePoint" />
-            <mxPoint x="-560" y="264" as="targetPoint" />
+            <mxPoint x="-471" y="264" as="sourcePoint" />
+            <mxPoint x="-621" y="264" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-2" value="GEOS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=#B3B3B3;gradientColor=#999999;fontColor=#000000;" parent="NAiqHazn5sWhVvEWbsj6-1" vertex="1">
-          <mxGeometry x="-410" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-471" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-3" value="NIM-OSS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=#B3B3B3;gradientColor=#999999;fontColor=#000000;" parent="NAiqHazn5sWhVvEWbsj6-1" vertex="1">
-          <mxGeometry x="-950" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1011" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vw2CRLOBcBUeN0YFQBN8-4" value="ZSMART" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=#B3B3B3;gradientColor=#999999;fontColor=#000000;" parent="NAiqHazn5sWhVvEWbsj6-1" vertex="1">
-          <mxGeometry x="-140" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-201" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DjU6518S9XPNlImMvv2Y-3" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeWidth=3;endSize=11;startSize=11;sketch=0;align=center;" parent="NAiqHazn5sWhVvEWbsj6-1" target="vw2CRLOBcBUeN0YFQBN8-4" edge="1">
           <mxGeometry x="0.1415" y="51" relative="1" as="geometry">
-            <mxPoint x="-440" y="60" as="sourcePoint" />
-            <mxPoint x="-570" y="390" as="targetPoint" />
+            <mxPoint x="-501" y="60" as="sourcePoint" />
+            <mxPoint x="-631" y="390" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=11;fontColor=#000000;align=center;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" target="vw2CRLOBcBUeN0YFQBN8-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-490" y="70" as="sourcePoint" />
+            <mxPoint x="-551" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=11;fontColor=#000000;align=center;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" target="vw2CRLOBcBUeN0YFQBN8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-490" y="60" as="sourcePoint" />
+            <mxPoint x="-551" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EoMak2Dqz7K4QVh-8t9h-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=11;fontColor=#000000;align=center;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" source="xdviqbX00xz4bvuuJFPg-0" target="vw2CRLOBcBUeN0YFQBN8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-0" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;fontSize=11;align=left;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-480" y="10" width="30" height="60" as="geometry" />
+          <mxGeometry x="-541" y="10" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-4" value="&lt;div&gt;Bulk Deletion of Racks&lt;/div&gt;&lt;div&gt;(Batch interface - ORION)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-550" y="370" width="150" height="20" as="geometry" />
+          <mxGeometry x="-611" y="370" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-5" value="Real-time SOAP interface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-520" y="270" width="80" height="20" as="geometry" />
+          <mxGeometry x="-581" y="270" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-8" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Creates Equipment holder for non-OTN&lt;br&gt;and stores Rack and Rackshelf&amp;nbsp;&lt;br&gt;in VAR Location in node/shelf for OTN from NIM-C4&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-910" y="90" width="280" height="50" as="geometry" />
+          <mxGeometry x="-971" y="90" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xdviqbX00xz4bvuuJFPg-9" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;Stores&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;Rack and Rackshelf&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;in VAR Location on Chassis(Shelf)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;from NIM-C4&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-320" y="120" width="240" height="20" as="geometry" />
+          <mxGeometry x="-381" y="120" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoMak2Dqz7K4QVh-8t9h-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fontSize=11;fontColor=#000000;align=center;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" source="EoMak2Dqz7K4QVh-8t9h-0" target="vw2CRLOBcBUeN0YFQBN8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Stores rack and rackshelf references for ETN and DSLAMs" placeholders="1" name="Variable" id="EoMak2Dqz7K4QVh-8t9h-0">
           <mxCell style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#FFFF66;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-            <mxGeometry x="-144" y="380" width="130" height="61" as="geometry" />
+            <mxGeometry x="-205" y="380" width="130" height="61" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="EoMak2Dqz7K4QVh-8t9h-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=11;fontColor=#000000;align=center;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" source="EoMak2Dqz7K4QVh-8t9h-2" target="vw2CRLOBcBUeN0YFQBN8-3">
@@ -1052,7 +1052,7 @@
         </mxCell>
         <UserObject label="Stores rack-rackshelf references for non-ETN domains ex: OTN, GMN, GBI etc" placeholders="1" name="Variable" id="EoMak2Dqz7K4QVh-8t9h-2">
           <mxCell style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#FFFF66;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-            <mxGeometry x="-957" y="380" width="130" height="61" as="geometry" />
+            <mxGeometry x="-1018" y="380" width="130" height="61" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="EoMak2Dqz7K4QVh-8t9h-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=11;fontColor=#000000;align=center;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" source="EoMak2Dqz7K4QVh-8t9h-4" target="vw2CRLOBcBUeN0YFQBN8-1">
@@ -1060,22 +1060,22 @@
         </mxCell>
         <UserObject label="Master system for fiber racks" placeholders="1" name="Variable" id="EoMak2Dqz7K4QVh-8t9h-4">
           <mxCell style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#FFFF66;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-            <mxGeometry x="-685" y="392" width="130" height="61" as="geometry" />
+            <mxGeometry x="-746" y="392" width="130" height="61" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="EoMak2Dqz7K4QVh-8t9h-7" value="Creates Copper racks or racks containing only ODF/DDF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-370" y="170" width="110" height="20" as="geometry" />
+          <mxGeometry x="-431" y="170" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoMak2Dqz7K4QVh-8t9h-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=11;fontColor=#000000;align=center;entryX=0.583;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NAiqHazn5sWhVvEWbsj6-1" source="EoMak2Dqz7K4QVh-8t9h-9" target="vw2CRLOBcBUeN0YFQBN8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Contains rack synced from NIM-C4 (Fiber racks), Racks containing only ODF/DDF and copper racks" placeholders="1" name="Variable" id="EoMak2Dqz7K4QVh-8t9h-9">
           <mxCell style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillColor=#FFFF66;fontStyle=0" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-            <mxGeometry x="-417" y="395" width="155" height="61" as="geometry" />
+            <mxGeometry x="-478" y="395" width="155" height="61" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="i8Gei7dm-Q_brb4MXrGM-0" value="Creates fiber racks containing active devices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="NAiqHazn5sWhVvEWbsj6-1">
-          <mxGeometry x="-675" y="160" width="110" height="20" as="geometry" />
+          <mxGeometry x="-736" y="160" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
