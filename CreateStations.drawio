@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T13:27:14.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="-MSh07G9uY0Ml33-pjkh" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T13:32:41.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="XEqlBfeVwQbrKOaoo51y" version="13.6.9" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,20 +131,31 @@
         <mxCell id="yevtCZ5iCF3uBbT4yuub-46" value="No Orgnaization&#xa;found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="760" y="670" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yevtCZ5iCF3uBbT4yuub-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yevtCZ5iCF3uBbT4yuub-47" target="yevtCZ5iCF3uBbT4yuub-52">
+        <mxCell id="yevtCZ5iCF3uBbT4yuub-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yevtCZ5iCF3uBbT4yuub-54" target="yevtCZ5iCF3uBbT4yuub-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yevtCZ5iCF3uBbT4yuub-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yevtCZ5iCF3uBbT4yuub-47" target="yevtCZ5iCF3uBbT4yuub-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yevtCZ5iCF3uBbT4yuub-47" value="Get Buildingid from NIM using Address postcode/house nr" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yevtCZ5iCF3uBbT4yuub-47" value="Get Building from NIM using Address postcode/house nr" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="810" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yevtCZ5iCF3uBbT4yuub-49" value="Orgnaization&#xa;found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="610" y="750" width="90" height="26" as="geometry" />
+          <mxGeometry x="610" y="760" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yevtCZ5iCF3uBbT4yuub-50" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1080" y="688.5" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="yevtCZ5iCF3uBbT4yuub-52" value="Get Buildingid from NIM using Address postcode/house nr" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="930" width="140" height="60" as="geometry" />
+        <mxCell id="yevtCZ5iCF3uBbT4yuub-52" value="Check if it is an infra building" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="920" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yevtCZ5iCF3uBbT4yuub-54" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yevtCZ5iCF3uBbT4yuub-56" value="Building found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="760" y="910" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
