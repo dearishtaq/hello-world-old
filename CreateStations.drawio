@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T07:18:42.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Qj9JG0u3c_OVaQi6u8r2" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T07:32:27.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="e40kIbniJG0dTcn8V44i" version="13.7.3" type="github" pages="2">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mxkRBxtBoPagDHEsuCND" name="Page-2">
-    <mxGraphModel dx="1220" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="864" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="ZffOcwPM53r9Ry4PVxIr-0" />
         <mxCell id="ZffOcwPM53r9Ry4PVxIr-1" parent="ZffOcwPM53r9Ry4PVxIr-0" />
@@ -328,7 +328,7 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-38" target="4XAEnzipnwyF2DJ29jOq-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-38" value="Rooms/rows seems created per building, naming format is for ex: for room&amp;nbsp;&amp;lt;building name&amp;gt;/MTK&lt;br&gt;So creating room/rows per stations will fail due to duplicate names.&lt;br&gt;Previously it seems rooms and rows used to be created per station and the format was for ex: &amp;lt;building name&amp;gt;/&amp;lt;stationtype&amp;gt;seq&amp;gt;_MTK&lt;br&gt;This naming format is commented out." style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-38" value="Rooms/rows seems created per building, naming format is for ex: for room&amp;nbsp;&amp;lt;building name&amp;gt;/MTK&lt;br&gt;So creating room/rows in building/location requested per station,will fail due to duplicate names.&lt;br&gt;Previously it seems rooms and rows used to be created per station and the format was for ex: &amp;lt;building name&amp;gt;/&amp;lt;stationtype&amp;gt;seq&amp;gt;_MTK&lt;br&gt;This naming format is commented out." style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="780" y="550" width="300" height="119.5" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-40" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
@@ -355,7 +355,7 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-51" value="Throw an error. IP stations is possible, user can create manually" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="380" y="350" width="160" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-53">
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.071;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-53" target="4XAEnzipnwyF2DJ29jOq-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="650" as="targetPoint" />
           </mxGeometry>
