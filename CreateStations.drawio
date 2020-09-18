@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T06:02:47.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="XCOn1XnXxgXA32ip1Tch" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T06:18:45.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="dqousBHmFtKyxnMyeKYE" version="13.7.3" type="github" pages="2">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -169,43 +169,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4oGFE4PxuQD2jKm6o-I-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="220" y="30" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="14" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l4oGFE4PxuQD2jKm6o-I-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="l4oGFE4PxuQD2jKm6o-I-3" target="l4oGFE4PxuQD2jKm6o-I-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4oGFE4PxuQD2jKm6o-I-3" value="FindAddress/Town from NIM with postcode/hnr from PCDB" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="200" y="110" width="140" height="60" as="geometry" />
+          <mxGeometry x="200" y="94" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4oGFE4PxuQD2jKm6o-I-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="l4oGFE4PxuQD2jKm6o-I-5" target="xEiHZuELv5rGqq_QjfTb-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="250" as="targetPoint" />
+            <mxPoint x="440" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MnLZK0qRAUwdEGSxmP2_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="l4oGFE4PxuQD2jKm6o-I-5" target="MnLZK0qRAUwdEGSxmP2_-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4oGFE4PxuQD2jKm6o-I-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="230" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="194" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l4oGFE4PxuQD2jKm6o-I-7" value="Town not found or &#xa;Multiple records found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="310" y="194" width="140" height="46" as="geometry" />
+          <mxGeometry x="310" y="178" width="140" height="46" as="geometry" />
         </mxCell>
         <mxCell id="xEiHZuELv5rGqq_QjfTb-0" value="Error" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="440" y="228.5" width="100" height="43" as="geometry" />
+          <mxGeometry x="440" y="212.5" width="100" height="43" as="geometry" />
         </mxCell>
         <mxCell id="mECDECkqt1jcqjJIiNFH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="MnLZK0qRAUwdEGSxmP2_-0" target="MnLZK0qRAUwdEGSxmP2_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnLZK0qRAUwdEGSxmP2_-0" value="Find &quot;Infra Station&quot; from the building exist at the address" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="200" y="360" width="140" height="60" as="geometry" />
+          <mxGeometry x="200" y="344" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnLZK0qRAUwdEGSxmP2_-2" value="If Town and/or &#xa;address found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="160" y="300" width="90" height="46" as="geometry" />
+          <mxGeometry x="160" y="284" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mECDECkqt1jcqjJIiNFH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="MnLZK0qRAUwdEGSxmP2_-3" target="HtEstAqKrCnuH7wMqbMc-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="510" as="targetPoint" />
+            <mxPoint x="160" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="MnLZK0qRAUwdEGSxmP2_-3" target="4XAEnzipnwyF2DJ29jOq-0">
@@ -215,57 +215,130 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnLZK0qRAUwdEGSxmP2_-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="230" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="454" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mECDECkqt1jcqjJIiNFH-4" value="More than 1 &#xa;infra station&#xa;or Building" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="150" y="450" width="80" height="70" as="geometry" />
+          <mxGeometry x="150" y="434" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HtEstAqKrCnuH7wMqbMc-0" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="50" y="488.5" width="100" height="43" as="geometry" />
+          <mxGeometry x="50" y="472.5" width="100" height="43" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-0" target="4XAEnzipnwyF2DJ29jOq-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-0" value="Find Orgnaization from NIM using Town" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="420" y="480" width="140" height="60" as="geometry" />
+          <mxGeometry x="420" y="464" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-2" value="0 or 1 &#xa;infra station" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="320" y="470" width="100" height="30" as="geometry" />
+          <mxGeometry x="320" y="454" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-3" target="4XAEnzipnwyF2DJ29jOq-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="630" as="targetPoint" />
+            <mxPoint x="590" y="614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="630" y="470" width="80" height="80" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-3" target="4XAEnzipnwyF2DJ29jOq-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-7" value="Organization not found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="710" y="470" width="100" height="30" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="630" y="454" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-7" value="Organization &#xa;not found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="710" y="454" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-10" value="&quot;Postcode house nr not found in PCDB&quot; or Duplicate values" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="520" y="160" width="160" height="20" as="geometry" />
+          <mxGeometry x="520" y="144" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-11" value="" style="endArrow=classic;html=1;entryX=0.89;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" target="xEiHZuELv5rGqq_QjfTb-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="190" as="sourcePoint" />
-            <mxPoint x="490" y="200" as="targetPoint" />
+            <mxPoint x="570" y="174" as="sourcePoint" />
+            <mxPoint x="490" y="184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-12" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="810" y="488.5" width="100" height="43" as="geometry" />
+          <mxGeometry x="810" y="472.5" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-15" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="220" y="627" width="100" height="43" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-15" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="220" y="611" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-17" value="If request is to create &#xa;customer station&#xa;and building has infra station" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="100" y="557" width="170" height="70" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-17" value="If request is to create &#xa;customer station&#xa;and building has infra station" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="80" y="534" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-20" target="4XAEnzipnwyF2DJ29jOq-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" target="4XAEnzipnwyF2DJ29jOq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="714" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-20" value="This is an infra building (Please inform IM, mail address: lostad-solutions@kpn.com)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="110" y="720" width="160" height="20" as="geometry" />
+          <mxGeometry x="70" y="734" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-22" target="4XAEnzipnwyF2DJ29jOq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-22" target="4XAEnzipnwyF2DJ29jOq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="630" y="574" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-24" target="4XAEnzipnwyF2DJ29jOq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-24" value="Create Address and building, and relate them" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="800" y="584" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-26" value="Address not exist" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="690" y="561" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-36" target="4XAEnzipnwyF2DJ29jOq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-27" value="Create Station and relate to Operator" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="600" y="704" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-30" value="Subscriber is not strored" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="370" y="764" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-33" value="Address exist" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="560" y="654" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-34" target="4XAEnzipnwyF2DJ29jOq-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-34" value="Create Rooms&amp;nbsp;MTK and&amp;nbsp;SERVER in the building and a row in both the rooms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="940" y="704" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-36" target="4XAEnzipnwyF2DJ29jOq-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-36" value="Room required" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="800" y="694" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-27" target="4XAEnzipnwyF2DJ29jOq-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="734" as="sourcePoint" />
+            <mxPoint x="830" y="734" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-38" target="4XAEnzipnwyF2DJ29jOq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-38" value="Cannot create room/rows per station" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="930" y="640" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-40" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="890" y="704" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-41" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="960" y="800" width="100" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-45" value="No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="860" y="790" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
