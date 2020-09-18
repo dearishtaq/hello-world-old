@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T06:24:44.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="QkLLwWtFDkhbLSR7cfKx" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T06:25:21.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Rmn4cwaAmfAzFXfI9iNs" version="13.7.3" type="github" pages="2">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -329,7 +329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-38" value="Cannot create room/rows per station&lt;br&gt;Previously it seems roomand row used to be created per station and the format was for ex: &amp;lt;building name&amp;gt;/&amp;lt;stationtype&amp;gt;&amp;lt;seq&amp;gt;_MTK" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="880" y="584" width="190" height="74" as="geometry" />
+          <mxGeometry x="780" y="595.5" width="250" height="74" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-40" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="860" y="704" width="40" height="30" as="geometry" />
