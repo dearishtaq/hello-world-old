@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T07:48:25.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MQYZIQZV_HYb96T0aExv" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T08:00:07.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wSImrask7Iz-yF0-xKdX" version="13.7.3" type="github" pages="2">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mxkRBxtBoPagDHEsuCND" name="Page-2">
-    <mxGraphModel dx="864" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="ZffOcwPM53r9Ry4PVxIr-0" />
         <mxCell id="ZffOcwPM53r9Ry4PVxIr-1" parent="ZffOcwPM53r9Ry4PVxIr-0" />
@@ -246,8 +246,8 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-7" value="Organization &#xa;not found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="680" y="454" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-10" value="&quot;Postcode house nr not found in PCDB&quot; or Duplicate values" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="490" y="144" width="160" height="20" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-10" value="&quot;Postcode house nr not found in PCDB/PCBT&quot; or Duplicate values" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="490" y="144" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-11" value="" style="endArrow=classic;html=1;entryX=0.89;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" target="xEiHZuELv5rGqq_QjfTb-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -258,19 +258,19 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-12" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="780" y="472.5" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-15" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-15" value="&lt;span&gt;Error&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="190" y="611" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-17" value="If request is to create &#xa;customer station&#xa;and building has infra station" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="50" y="534" width="170" height="50" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-17" value="If request is to create &#xa;customer station&#xa;and building has infra station" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="75" y="534" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" target="4XAEnzipnwyF2DJ29jOq-15">
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-20" target="4XAEnzipnwyF2DJ29jOq-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="714" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-20" value="This is an infra building (Please inform IM, mail address: lostad-solutions@kpn.com)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="40" y="734" width="160" height="20" as="geometry" />
+          <mxGeometry x="20" y="664" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-22" target="4XAEnzipnwyF2DJ29jOq-24">
           <mxGeometry relative="1" as="geometry" />
@@ -301,8 +301,8 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-27" value="Create Station and relate to Operator" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="570" y="704" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-30" value="Subscriber is not strored" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="340" y="764" width="160" height="20" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-30" value="Subscriber will not be stored in Customer Station.&lt;br&gt;Previously, in one building multiple stations are created for multiple customers in the building. But in future, there will be only one ISRA point for the whole building. So no need to store Subscriber name in Station" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="340" y="764" width="240" height="106" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-33" value="Address exist" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="640" y="654" width="120" height="30" as="geometry" />
@@ -328,8 +328,8 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-38" target="4XAEnzipnwyF2DJ29jOq-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-38" value="Rooms/rows seems created per building, naming format is for ex: for room&amp;nbsp;&amp;lt;building name&amp;gt;/MTK&lt;br&gt;So creating room/rows in building/location requested per station,will fail due to duplicate names." style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="780" y="580" width="300" height="74" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-38" value="Create Rooms/rows per building, naming format is for ex: for room&amp;nbsp;&amp;lt;building name&amp;gt;/MTK.&lt;br&gt;Station is a logical entity, so it will not have rooms/rows" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="780" y="610" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-40" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="860" y="704" width="40" height="30" as="geometry" />
@@ -343,28 +343,28 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-48" value="Organization &#xa;found" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="640" y="534" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-49" value="To Create Station with GPS co-ordinates, need address details also from GEOS" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="770" y="24" width="300" height="30" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-49" value="To Create Station with GPS co-ordinates:&lt;br&gt;Create Building, Station and Address with the same name as P-Location recieved from GEOS. And the post code/house nr will be empty in Address.&lt;br&gt;Create GEO Point with the same GPS co-ordinates recieved from GEOS" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="770" y="24" width="320" height="86" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-50" target="l4oGFE4PxuQD2jKm6o-I-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-50" value="It is PCBT table, but currently the functionality uses both PCDB and PCBT, but the street name is used from PCBT" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="380" y="30" width="170" height="64" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-50" value="It is PCBT table, but currently the functionality uses both PCDB and PCBT, but the street name is used from PCBT&lt;br&gt;PCDB is weekly refreshed on wednesdays&lt;br&gt;PCBT is postcode/house nr from BTIS" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="380" y="20" width="280" height="74" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.882;entryY=0.355;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-51" target="MnLZK0qRAUwdEGSxmP2_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-51" value="Throw an error. IP stations is possible, user can create manually" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="380" y="350" width="160" height="54" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-51" value="Throw an error. IP stations is possible, user can create manually.&lt;br&gt;From the new functionality only P Stations are created.&lt;br&gt;Use&amp;nbsp;Bd-P% buildings for testing" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="380" y="310" width="260" height="94" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.071;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-53" target="4XAEnzipnwyF2DJ29jOq-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-53" value="Building and Address name is same as Customer Station" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="250" y="704" width="160" height="54" as="geometry" />
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-53" value="Create Building and Address with the same name as Customer Station.&lt;br&gt;Currently in one building there can be multiple customer stations, but in future there will be only 1 customer station per building. &lt;br&gt;But to handle the current situation, where it is possible to receive multiple P Locations per address, create building with same name as the first P-Location which user requested to create, for next stations use the same building create" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="30" y="720" width="290" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
