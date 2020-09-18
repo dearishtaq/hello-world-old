@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T07:13:47.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="3lxtqYpFzUrV4cAuYR5M" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T07:18:42.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Qj9JG0u3c_OVaQi6u8r2" version="13.7.3" type="github" pages="2">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -354,6 +354,14 @@
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-51" value="Throw an error. IP stations is possible, user can create manually" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="380" y="350" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-53" value="Building and Address name is same as Customer Station" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
+          <mxGeometry x="250" y="704" width="160" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
