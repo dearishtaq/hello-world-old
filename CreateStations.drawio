@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T08:00:07.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wSImrask7Iz-yF0-xKdX" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T08:01:17.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Q4Dmc38PPgcJDAdOwkkU" version="13.7.3" type="github" pages="2">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mxkRBxtBoPagDHEsuCND" name="Page-2">
-    <mxGraphModel dx="1220" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="ZffOcwPM53r9Ry4PVxIr-0" />
         <mxCell id="ZffOcwPM53r9Ry4PVxIr-1" parent="ZffOcwPM53r9Ry4PVxIr-0" />
@@ -264,13 +264,13 @@
         <mxCell id="4XAEnzipnwyF2DJ29jOq-17" value="If request is to create &#xa;customer station&#xa;and building has infra station" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="75" y="534" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4XAEnzipnwyF2DJ29jOq-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-20" target="4XAEnzipnwyF2DJ29jOq-15">
+        <mxCell id="4XAEnzipnwyF2DJ29jOq-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-20" target="4XAEnzipnwyF2DJ29jOq-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="714" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-20" value="This is an infra building (Please inform IM, mail address: lostad-solutions@kpn.com)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="20" y="664" width="160" height="20" as="geometry" />
+          <mxGeometry y="624" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZffOcwPM53r9Ry4PVxIr-1" source="4XAEnzipnwyF2DJ29jOq-22" target="4XAEnzipnwyF2DJ29jOq-24">
           <mxGeometry relative="1" as="geometry" />
@@ -302,7 +302,7 @@
           <mxGeometry x="570" y="704" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-30" value="Subscriber will not be stored in Customer Station.&lt;br&gt;Previously, in one building multiple stations are created for multiple customers in the building. But in future, there will be only one ISRA point for the whole building. So no need to store Subscriber name in Station" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="340" y="764" width="240" height="106" as="geometry" />
+          <mxGeometry x="330" y="764.5" width="330" height="81" as="geometry" />
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-33" value="Address exist" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
           <mxGeometry x="640" y="654" width="120" height="30" as="geometry" />
@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4XAEnzipnwyF2DJ29jOq-53" value="Create Building and Address with the same name as Customer Station.&lt;br&gt;Currently in one building there can be multiple customer stations, but in future there will be only 1 customer station per building. &lt;br&gt;But to handle the current situation, where it is possible to receive multiple P Locations per address, create building with same name as the first P-Location which user requested to create, for next stations use the same building create" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#99FF33;" vertex="1" parent="ZffOcwPM53r9Ry4PVxIr-1">
-          <mxGeometry x="30" y="720" width="290" height="145" as="geometry" />
+          <mxGeometry x="20" y="694" width="290" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
