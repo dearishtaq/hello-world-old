@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T13:41:16.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ZEbZZnp0dh0Uy4DgHPwp" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T13:43:28.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="U-8y_uzukEP8bADYBUEa" version="13.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -183,8 +183,8 @@
         <mxCell id="mh-ttGYlAwculvkVbn_Q-50" value="Future" style="text;html=1;strokeColor=#36393d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354.97" y="480" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mh-ttGYlAwculvkVbn_Q-52" value="&lt;b&gt;NOTE:&lt;/b&gt;&lt;br&gt;All the buildings/Stations which are referred as created by BTIS/Lostad are actually created in NIM and synced to GEOS." style="text;html=1;strokeColor=#36393d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="70" width="290" height="60" as="geometry" />
+        <mxCell id="mh-ttGYlAwculvkVbn_Q-52" value="&lt;b&gt;NOTE:&lt;/b&gt;&lt;br&gt;1. All the buildings/Stations which are referred as created by BTIS/Lostad are actually created in NIM and synced to GEOS.&lt;br&gt;2. Each building has unique Address (postcode, house nr, house ext, house let)" style="text;html=1;strokeColor=#36393d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="30" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mh-ttGYlAwculvkVbn_Q-55" value="" style="fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
